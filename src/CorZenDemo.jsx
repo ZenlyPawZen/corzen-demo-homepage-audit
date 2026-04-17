@@ -25,7 +25,7 @@ const steps = [
     altText: 'Audit Homepage agent running autonomously',
     title: 'Step 2',
     description: 'Agent instructions have been optimized to our very high standards.\n\nWe upgrade each time we find a better result.',
-    hotspot: { top: '50%', left: '50%', align: 'center' },
+    hotspot: { top: '20%', left: '50%', align: 'center' },
   },
   {
     slug: 'agents/audit-homepage/output',
