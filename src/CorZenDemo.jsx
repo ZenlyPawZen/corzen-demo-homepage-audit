@@ -33,7 +33,7 @@ const steps = [
     altText: 'Completed homepage audit output with actionable recommendations',
     title: 'Step 3',
     description: 'Clear instructions on what to change enable you to edit your page in minutes.\n\nYour results are saved in your project until you delete the project.',
-    hotspot: { top: '50%', left: '50%', align: 'center' },
+    hotspot: { top: '20%', left: '50%', align: 'center' },
   },
 ];
 
