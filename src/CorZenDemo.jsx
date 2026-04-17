@@ -17,7 +17,7 @@ const steps = [
     altText: 'Audit Homepage task detail modal showing description and Run agent button',
     title: 'Step 1',
     description: 'The description shows you what to expect from the agent.\n\nYou can spend 6 hours completing the task or have the agent finish it for you in less than a minute.',
-    hotspot: { top: '5%', left: '45%', align: 'center', cardWidth: '350px'  },
+    hotspot: { top: '8%', left: '45%', align: 'center', cardWidth: '350px'  },
   },
   {
     slug: 'agents/audit-homepage/running',
